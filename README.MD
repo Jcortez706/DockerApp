@@ -1,5 +1,5 @@
 # INTRODUCTION  
-This application mocks a simple yard application containing information trailers.  
+This application is a very simple yard application containing information trailers.  
 # HOW TO RUN
 To run this application you must have docker started.  
 In the terminal run 
