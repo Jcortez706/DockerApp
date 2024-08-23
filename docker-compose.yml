@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  app:
+    image: a35541e74322
+    ports:
+      - "8080:8080"
